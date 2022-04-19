@@ -4,8 +4,16 @@
     <keyboard-shortcut first-keystroke="shift meta alt r" />
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="Force touch" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="ImplementMethods" />
   <action id="MethodHierarchy.ImplementMethodAction" />
+  <action id="RebuildGradleProject">
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
   <action id="RecentFiles" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
@@ -21,5 +29,11 @@
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
   </action>
 </keymap>
