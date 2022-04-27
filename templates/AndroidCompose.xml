@@ -1,0 +1,8 @@
+<templateSet group="AndroidCompose">
+  <template name="mod" value="modifier = androidx.compose.ui.Modifier.$PARAM$" description="Add a modifier parameter" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
