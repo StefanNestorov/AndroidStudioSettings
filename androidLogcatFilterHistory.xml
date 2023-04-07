@@ -1,10 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Freighthood" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:Freighthood" />
-        <option value="stef" />
+        <option value="package:mine " />
       </list>
     </option>
   </component>
