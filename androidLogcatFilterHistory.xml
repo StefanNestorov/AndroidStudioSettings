@@ -1,7 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine onDispose" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onDispose" />
+        <option value="package:mine onCo" />
+        <option value="onComposition" />
+        <option value="onCleared" />
+        <option value="onDispose" />
+        <option value="navi" />
+        <option value="package:mine navi" />
         <option value="package:mine " />
         <option value="error" />
       </list>
