@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="FreighthoodTag" />
+    <option name="mostRecentlyUsed" value="level:error Fre" />
     <option name="nonFavorites">
       <list>
+        <option value="level:error Fre" />
+        <option value="error" />
+        <option value="Freighthood" />
         <option value="FreighthoodTag" />
         <option value="Freghthood" />
         <option value="package:mine onDispose" />
@@ -15,7 +18,6 @@
         <option value="navi" />
         <option value="package:mine navi" />
         <option value="package:mine " />
-        <option value="error" />
       </list>
     </option>
   </component>
